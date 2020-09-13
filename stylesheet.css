@@ -1,6 +1,6 @@
 .header {
   display:flex;
-  margin:10px;
+  margin:5px;
   background-color:green;
   color:white;
 }
@@ -11,7 +11,7 @@
   
   
 .header-middle {
-  background-color:lime;
+  background-color:blue;
   color:white;
   text-algin:center;
 }
