@@ -4,9 +4,19 @@
   background-color:green;
   color:white;
 }
+.header p {
+  margin-left:5px;
+  float:left;
+}
+  
+  
 .header-middle {
-  background-color:light-green;
+  background-color:lime;
   color:white;
   text-algin:center;
+}
+
+.liner {
+  padding:5px;
 }
   
