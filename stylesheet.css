@@ -19,6 +19,10 @@
   background-color:lightblue;
   padding:10px;
 }
+
+.btn:hover {
+  background-clolor:red;
+}
   
 .head {
   background-image:url("https://github.com/kosiki/zyohokagaku/blob/master/download.jpeg?raw=true");
