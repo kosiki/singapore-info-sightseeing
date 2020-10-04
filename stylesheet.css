@@ -13,6 +13,8 @@
   
 .contents {
   display:inline;
+  padding:10px;
+  margin:20px;
 }
 
 .btn {
@@ -27,7 +29,7 @@
 .head {
   background-image:url("https://github.com/kosiki/zyohokagaku/blob/master/download.jpeg?raw=true");
   background-size:cover;
-  color:white;
+  color:black;
   text-algin:center;
   padding:250px 0 250px 0;
 }
